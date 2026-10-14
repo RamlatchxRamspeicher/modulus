@@ -6,7 +6,7 @@
 **Thesis:** *Modelparallelismus in Adaptiv Fourier Neural Operator Transformern für skalierbare datengetriebene Wettervorhersagen*
 Robin Maurer · M.Sc. Computer Science · Karlsruhe Institute of Technology (KIT), Scientific Computing Center · 07/2024 – 01/2025
 Supervisors: Prof. Dr. Achim Streit, Prof. Dr. Veit Hagenmeyer, Dr. Charlotte Debus
-📄 Thesis PDF: [Thesis](Modelparallelism_in_Adaptive_Fourier_Neural_Operator_Transformers_for_Scalable_Data_Driven_Weatherforecasting.pdf)
+Thesis PDF: [Full text (German, PDF)](Modelparallelism_in_Adaptive_Fourier_Neural_Operator_Transformers_for_Scalable_Data_Driven_Weatherforecasting.pdf)
 
 ## What I did
 
@@ -38,7 +38,7 @@ This is a negative result: it documents where and why model parallelism does not
 | `modulus/models/afno/afno.py` | Changes to the AFNO model |
 | `*_horeka.sh`, `train_horeka.sh` | Slurm job scripts for HoreKa |
 
-<!-- TODO: Prüfen, ob dieser Stand (letzter Commit 15.08.2024) dem Endstand der Experimente entspricht. Falls nicht, Satz ergänzen: "Code state as of 08/2024; final experiments are documented in the thesis." -->
+Code state as of 08/2024; final experiments are documented in the thesis.
 
 **Not my work:** everything else in this repository (NVIDIA upstream), including the `modulus/models/sfno/` files, which were copied from NVIDIA Modulus to prepare follow-up experiments. Parts of the communication setup are adapted from [Heat (Helmholtz Analytics Toolkit)](https://github.com/helmholtz-analytics/heat).
 
