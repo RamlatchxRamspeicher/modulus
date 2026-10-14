@@ -6,7 +6,7 @@
 **Thesis:** *Modelparallelismus in Adaptiv Fourier Neural Operator Transformern für skalierbare datengetriebene Wettervorhersagen*
 Robin Maurer · M.Sc. Computer Science · Karlsruhe Institute of Technology (KIT), Scientific Computing Center · 07/2024 – 01/2025
 Supervisors: Prof. Dr. Achim Streit, Prof. Dr. Veit Hagenmeyer, Dr. Charlotte Debus
-📄 Thesis PDF: <!-- TODO: Link einfügen (PDF im Repo oder KITopen) -->
+📄 Thesis PDF: [Thesis](Modelparallelism_in_Adaptive_Fourier_Neural_Operator_Transformers_for_Scalable_Data_Driven_Weatherforecasting.pdf)
 
 ## What I did
 
